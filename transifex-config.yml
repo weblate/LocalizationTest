@@ -2,6 +2,6 @@ git:
   filters:
     - filter_type: file
       file_format: ANDROID
-      source_language: EN
+      source_language: en
       source_file: Resources/Languages/EN.xml
       translation_files_expression: 'Resources/Languages/<lang>.xml'
