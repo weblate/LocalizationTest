@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation"
-           Code="CS" Name="Czech">
-	<string name="ISO639-1" translatable="false">CS</string>
-	<string name="settings">Nastavení</string>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation" Code="CS" Name="Czech">
+    <string name="ISO639-1" translatable="false">CS</string>
+    <string name="settings">Nastavení aplikace</string>
 </resources>
