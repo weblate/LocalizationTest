@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
-<Language Code="EN" Name="English">
-  <Text Key="ISO639-1">EN</Text>
-  <Text Key="Settings">Settings</Text>
-</Language>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation"
+           Code="EN" Name="English">
+	<string name="ISO639-1" translatable="false">EN</string>
+	<string name="settings">Settings</string>
+</resources>
