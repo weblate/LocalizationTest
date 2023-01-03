@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation" Code="EN" Name="English">
-    <string name="ISO639-1" translatable="false">EN</string>
-    <string name="settings">应用设置</string>
-</resources>

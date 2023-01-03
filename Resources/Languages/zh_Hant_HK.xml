@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation" Code="zh_Hant_HK" Name="Chinese (Traditional, Hong Kong)">
+    <string name="ISO639-1" translatable="false">HK</string>
+    <string name="settings">应用设置</string>
+</resources>
