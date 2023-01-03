@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation" Code="EN" Name="English">
-    <string name="ISO639-1" translatable="false">EN</string>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation" Code="NO" Name="Norwegian">
+    <string name="ISO639-1" translatable="false">NO</string>
     <string name="settings">Applikasjon innstillinger</string>
 </resources>
