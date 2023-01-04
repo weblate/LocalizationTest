@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation"
            Code="PL" Name="Polish">
+	<string name="ISO639-1" translatable="false">PL</string>
 	<string name="settings">Ustawienia</string>
 </resources>
