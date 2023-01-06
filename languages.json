@@ -1,0 +1,92 @@
+[
+  {
+    "name": "cs-CZ.xml",
+    "path": "Resources/Languages/cs-CZ.xml",
+    "sha": "8ff923ce914c91e63582d0e665201a619410c988",
+    "size": 285,
+    "last_update": "Jan 6, 2023, 6:31 PM GMT+1",
+    "creation_time": "Jan 6, 2023, 3:15 PM GMT+1",
+    "url": "https://api.github.com/repos/MPlayStream/LocalizationTest/contents/Resources/Languages/cs-CZ.xml?ref=main",
+    "html_url": "https://github.com/MPlayStream/LocalizationTest/blob/main/Resources/Languages/cs-CZ.xml",
+    "git_url": "https://api.github.com/repos/MPlayStream/LocalizationTest/git/blobs/8ff923ce914c91e63582d0e665201a619410c988",
+    "download_url": "https://raw.githubusercontent.com/MPlayStream/LocalizationTest/main/Resources/Languages/cs-CZ.xml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/MPlayStream/LocalizationTest/contents/Resources/Languages/cs-CZ.xml?ref=main",
+      "git": "https://api.github.com/repos/MPlayStream/LocalizationTest/git/blobs/8ff923ce914c91e63582d0e665201a619410c988",
+      "html": "https://github.com/MPlayStream/LocalizationTest/blob/main/Resources/Languages/cs-CZ.xml"
+    }
+  },
+  {
+    "name": "en-GB.xml",
+    "path": "Resources/Languages/en-GB.xml",
+    "sha": "c48cdf424be61e8a3ce84d695cca47aed8636616",
+    "size": 282,
+    "last_update": "Jan 6, 2023, 5:25 PM GMT+1",
+    "creation_time": "Jan 6, 2023, 2:10 PM GMT+1",
+    "url": "https://api.github.com/repos/MPlayStream/LocalizationTest/contents/Resources/Languages/en-GB.xml?ref=main",
+    "html_url": "https://github.com/MPlayStream/LocalizationTest/blob/main/Resources/Languages/en-GB.xml",
+    "git_url": "https://api.github.com/repos/MPlayStream/LocalizationTest/git/blobs/c48cdf424be61e8a3ce84d695cca47aed8636616",
+    "download_url": "https://raw.githubusercontent.com/MPlayStream/LocalizationTest/main/Resources/Languages/en-GB.xml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/MPlayStream/LocalizationTest/contents/Resources/Languages/en-GB.xml?ref=main",
+      "git": "https://api.github.com/repos/MPlayStream/LocalizationTest/git/blobs/c48cdf424be61e8a3ce84d695cca47aed8636616",
+      "html": "https://github.com/MPlayStream/LocalizationTest/blob/main/Resources/Languages/en-GB.xml"
+    }
+  },
+  {
+    "name": "pl-PL.xml",
+    "path": "Resources/Languages/pl-PL.xml",
+    "sha": "5fbb4d1a031c29f76a50d939e16dcf36aa9b4c6a",
+    "size": 293,
+    "last_update": "Jan 6, 2023, 3:40 PM GMT+1",
+    "creation_time": "Jan 6, 2023, 3:08 PM GMT+1",
+    "url": "https://api.github.com/repos/MPlayStream/LocalizationTest/contents/Resources/Languages/pl-PL.xml?ref=main",
+    "html_url": "https://github.com/MPlayStream/LocalizationTest/blob/main/Resources/Languages/pl-PL.xml",
+    "git_url": "https://api.github.com/repos/MPlayStream/LocalizationTest/git/blobs/5fbb4d1a031c29f76a50d939e16dcf36aa9b4c6a",
+    "download_url": "https://raw.githubusercontent.com/MPlayStream/LocalizationTest/main/Resources/Languages/pl-PL.xml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/MPlayStream/LocalizationTest/contents/Resources/Languages/pl-PL.xml?ref=main",
+      "git": "https://api.github.com/repos/MPlayStream/LocalizationTest/git/blobs/5fbb4d1a031c29f76a50d939e16dcf36aa9b4c6a",
+      "html": "https://github.com/MPlayStream/LocalizationTest/blob/main/Resources/Languages/pl-PL.xml"
+    }
+  },
+  {
+    "name": "nb-rNO.xml",
+    "path": "Resources/Languages/nb-rNO.xml",
+    "sha": "5170a8eedd9228454d827f382fd2aae0a8944a50",
+    "size": 296,
+    "last_update": "Jan 6, 2023, 4:35 PM GMT+1",
+    "creation_time": "Jan 6, 2023, 4:22 PM GMT+1",
+    "url": "https://api.github.com/repos/MPlayStream/LocalizationTest/contents/Resources/Languages/nb-rNO.xml?ref=main",
+    "html_url": "https://github.com/MPlayStream/LocalizationTest/blob/main/Resources/Languages/nb-rNO.xml",
+    "git_url": "https://api.github.com/repos/MPlayStream/LocalizationTest/git/blobs/5170a8eedd9228454d827f382fd2aae0a8944a50",
+    "download_url": "https://raw.githubusercontent.com/MPlayStream/LocalizationTest/main/Resources/Languages/nb-rNO.xml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/MPlayStream/LocalizationTest/contents/Resources/Languages/nb-rNO.xml?ref=main",
+      "git": "https://api.github.com/repos/MPlayStream/LocalizationTest/git/blobs/5170a8eedd9228454d827f382fd2aae0a8944a50",
+      "html": "https://github.com/MPlayStream/LocalizationTest/blob/main/Resources/Languages/nb-rNO.xml"
+    }
+  },
+  {
+    "name": "zh_Hant_HK.xml",
+    "path": "Resources/Languages/zh_Hant_HK.xml",
+    "sha": "8a8dba98397b7462d2255c11813206f377e78615",
+    "size": 314,
+    "last_update": "Jan 6, 2023, 4:30 PM GMT+1",
+    "creation_time": "Jan 6, 2023, 4:30 PM GMT+1",
+    "url": "https://api.github.com/repos/MPlayStream/LocalizationTest/contents/Resources/Languages/zh_Hant_HK.xml?ref=main",
+    "html_url": "https://github.com/MPlayStream/LocalizationTest/blob/main/Resources/Languages/zh_Hant_HK.xml",
+    "git_url": "https://api.github.com/repos/MPlayStream/LocalizationTest/git/blobs/8a8dba98397b7462d2255c11813206f377e78615",
+    "download_url": "https://raw.githubusercontent.com/MPlayStream/LocalizationTest/main/Resources/Languages/zh_Hant_HK.xml",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/MPlayStream/LocalizationTest/contents/Resources/Languages/zh_Hant_HK.xml?ref=main",
+      "git": "https://api.github.com/repos/MPlayStream/LocalizationTest/git/blobs/8a8dba98397b7462d2255c11813206f377e78615",
+      "html": "https://github.com/MPlayStream/LocalizationTest/blob/main/Resources/Languages/zh_Hant_HK.xml"
+    }
+  }
+]
